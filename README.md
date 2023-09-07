@@ -1,4 +1,4 @@
-#Mosquitto Authentication Plugin: MySQL with Redis Cache
+# Mosquitto Authentication Plugin: MySQL with Redis Cache
 
 This authentication plugin for Mosquitto uses MySQL as the primary data store and Redis as a caching layer to optimize authentication and ACL checks.
 
